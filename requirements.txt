@@ -1,7 +1,7 @@
-   pandas
-   numpy
-   scikit-learn
-   lightgbm
-   matplotlib
-   shap
-   jupyter
+pandas
+numpy
+scikit-learn
+lightgbm
+matplotlib
+shap
+jupyter
